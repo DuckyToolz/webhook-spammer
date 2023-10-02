@@ -1,3 +1,5 @@
 # Ducky Webhook Spammer
 
-Features:\nSpam Webhook\nSend Message to Webhook
+Features:
+Spam Webhook,
+Send Message to Webhook.
